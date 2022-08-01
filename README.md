@@ -1,2 +1,11 @@
 # LGMVIP-WEB
 LETS GROW MORE INTERNSHIP PROGRAM AUGUST-22
+I WOULD THANK TO #amankesawani sir & #letsgrowmorecommunity for providing me opportunity for working as a web developer intern
+
+#TASK-1 DESCRIPTION:
+-TO-DO LIST WEBAPP
+-CREATE A TO-DO LIST WEBAPP
+-TECHNOLOGIES USED :
+*HTML,CSS,JS
+*FIREBASE (FOR HOSTING)
+EDITOR: VS CODE 
